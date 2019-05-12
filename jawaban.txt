@@ -1,0 +1,5 @@
+Inner Join merupakan perintah untuk menampilkan semua data yang mempunyai nilai sama.
+
+Left Join merupakan cara menghubungkan tabel dan menampilkan semua data (kiri) pada tabel yang tidak berhubungan, sedangkan data yang kosong akan bernilai NULL.
+
+Right Join akan menghubungkan tabel dan menampilkan semua data (kanan) pada tabel yang tidak berhubungan, dan data yang kosong akan bernilai NULL.
